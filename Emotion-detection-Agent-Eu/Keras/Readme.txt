@@ -1,0 +1,1 @@
+Before run this code you must download the model.tflearn data from here https://drive.google.com/drive/folders/1GiuD49Q4WoMLbQ26rD693ckPLBDfHu8N
